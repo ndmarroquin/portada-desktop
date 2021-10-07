@@ -1,0 +1,12 @@
+section{
+    max-width: 768px;
+    height: 100vh;
+}
+.login__logo{
+    margin-top: 20%;
+    width: 20rem;
+}
+img{
+    width: 50rem;
+    height: auto;
+}

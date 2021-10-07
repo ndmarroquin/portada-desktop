@@ -1,0 +1,26 @@
+.login{
+    padding-top: 0rem;
+
+}
+/*section{
+    max-width: 1366px;
+    height: 100vh;
+}*/
+section{
+    max-width: 100%;
+}
+.login{
+   background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+}
+
+.login__logo{
+    width: 12.6rem;
+   /* margin-top: 43.6%;*/
+   /* margin-top: 40%;*/
+    margin-top: 10%;
+}
+
+.login__img{
+    margin-top: 12rem;
+    width: 35rem;
+}
